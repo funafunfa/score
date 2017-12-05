@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="score+timer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/score_timer_jar</output-path>
+    <root id="archive" name="score+timer.jar">
+      <element id="module-output" name="score+timer" />
+    </root>
+  </artifact>
+</component>
